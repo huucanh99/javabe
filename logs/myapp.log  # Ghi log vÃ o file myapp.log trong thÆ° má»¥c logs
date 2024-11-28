@@ -1,0 +1,81 @@
+2024-11-28T21:01:16.292+07:00 ERROR 12852 --- [demo] [restartedMain] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Failed to bind properties under 'logging.level.org.springframework' to org.springframework.boot.logging.LogLevel:
+
+    Property: logging.level.org.springframework
+    Value: "INFO  # Ä?áº·t má»©c Ä?á»? log cho Spring framework"
+    Origin: class path resource [application.properties] - 11:35
+    Reason: failed to convert java.lang.String to org.springframework.boot.logging.LogLevel (caused by java.lang.IllegalArgumentException: No enum constant org.springframework.boot.logging.LogLevel.INFO  # Ä?áº·t má»©c Ä?á»? log cho Spring framework)
+
+Action:
+
+Update your application's configuration. The following values are valid:
+
+    DEBUG
+    ERROR
+    FATAL
+    INFO
+    OFF
+    TRACE
+    WARN
+
+2024-11-28T21:01:16.857+07:00 ERROR 12828 --- [demo] [restartedMain] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Failed to bind properties under 'logging.level.org.springframework' to org.springframework.boot.logging.LogLevel:
+
+    Property: logging.level.org.springframework
+    Value: "INFO  # Ä?áº·t má»©c Ä?á»? log cho Spring framework"
+    Origin: class path resource [application.properties] - 11:35
+    Reason: failed to convert java.lang.String to org.springframework.boot.logging.LogLevel (caused by java.lang.IllegalArgumentException: No enum constant org.springframework.boot.logging.LogLevel.INFO  # Ä?áº·t má»©c Ä?á»? log cho Spring framework)
+
+Action:
+
+Update your application's configuration. The following values are valid:
+
+    DEBUG
+    ERROR
+    FATAL
+    INFO
+    OFF
+    TRACE
+    WARN
+
+2024-11-28T21:03:00.651+07:00 ERROR 12800 --- [demo] [restartedMain] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Failed to bind properties under 'logging.level.org.springframework' to org.springframework.boot.logging.LogLevel:
+
+    Property: logging.level.org.springframework
+    Value: "INFO  # Ä?áº·t má»©c Ä?á»? log cho Spring framework"
+    Origin: class path resource [application.properties] - 13:35
+    Reason: failed to convert java.lang.String to org.springframework.boot.logging.LogLevel (caused by java.lang.IllegalArgumentException: No enum constant org.springframework.boot.logging.LogLevel.INFO  # Ä?áº·t má»©c Ä?á»? log cho Spring framework)
+
+Action:
+
+Update your application's configuration. The following values are valid:
+
+    DEBUG
+    ERROR
+    FATAL
+    INFO
+    OFF
+    TRACE
+    WARN
+
